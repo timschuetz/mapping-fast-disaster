@@ -16,7 +16,9 @@ const IndexPage = () => (
     <p>The website serves as a companion to the course <a href="https://disaster-sts-network.org/content/environmental-injustice-summer-2020/essay">Environmental Injustice</a>, taught by Prof. Kim Fortun at the University of California Irvine.</p>
     
     <h2>Ammonium Nitrate (Fertilizer) Storage</h2>
-    <p>We are currently working on a map documenting the storage of ammonium nitrate. Get in touch with Tim Sch&uuml;tz (<a href="mailto:tschuetz@uci.edu">tschuetz@uci.edu</a>) if you would like to contribute to the project.</p>
+    <p>We are currently working on a map visualizing the storage of ammonium nitrate in California. Get in touch with Tim Sch&uuml;tz (<a href="mailto:tschuetz@uci.edu">tschuetz@uci.edu</a>) if you would like to contribute to the project.</p>
+                                                                                                                         
+    <p><iframe src="https://timschuetz.github.io/ammonium-nitrate-facilities-ca/" width="100%" height="400px"></iframe></p>                                                                                                                    
     
     <h2>Risk Management Plan (RMP) Facilities</h2>
         
