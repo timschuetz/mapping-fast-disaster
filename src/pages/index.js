@@ -9,16 +9,16 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>About</h1>
-    <p>This project provides a growing overview of datasets, maps and visualizations that document facilities with potential for "Fast Disaster" in Southern California.</p>
-    
-    <p>Get in touch with Tim Sch&uuml;tz (<a href="mailto:tschuetz@uci.edu">tschuetz@uci.edu</a>) if you would like to contribute to any of the mapping projects.</p>
+    <p>This project provides a growing overview of datasets, maps and visualizations that document facilities with potential for "Fast Disaster" in Southern California. Currently, we focus on Risk Management Plan (RMP) sites and locations where *ammonium nitrate* is stored.</p>
     
     <p>The website serves as a companion to the course <a href="https://disaster-sts-network.org/content/environmental-injustice-summer-2020/essay">Environmental Injustice</a>, taught by Prof. Kim Fortun at the University of California Irvine.</p>
+    
+    <p>Get in touch with Tim Sch&uuml;tz (<a href="mailto:tschuetz@uci.edu">tschuetz@uci.edu</a>) if you would like to contribute to any of the mapping projects.</p>
     
     <h2>Ammonium Nitrate (Fertilizer) Storage</h2>
     <p>We are currently working on a map visualizing the storage of ammonium nitrate in California.
     
-    <p>To contribute to the map comment on the <a href="https://docs.google.com/spreadsheets/d/1_ervaGPk0yRFldRTzcTGN1jcY6OVcj0letKZNSzek9o/edit#gid=0">data table</a> hosted on Google Sheets. You can also make pull requests on <a href="https://github.com/timschuetz/RMP-Facilities-Los-Angeles-County">GitHub</a>.</p>                                                                                                 
+    <p>To contribute to the map comment on the <a href="https://docs.google.com/spreadsheets/d/1_ervaGPk0yRFldRTzcTGN1jcY6OVcj0letKZNSzek9o/edit#gid=0">data table</a> hosted on Google Sheets. You can also make pull requests on <a href="https://github.com/timschuetz/ammonium-nitrate-facilities-ca">GitHub</a>.</p>                                                                                                 
                                                                                                                          
     <p><iframe src="https://timschuetz.github.io/ammonium-nitrate-facilities-ca/" width="100%" height="400px"></iframe></p>                                                                                                                    
     
@@ -28,9 +28,6 @@ const IndexPage = () => (
     <p>To contribute to the map comment on the <a href="https://docs.google.com/spreadsheets/d/104wMMATFPWQAmEt6iCvCow0qHG0NiMeZUqC4rBlxrso/edit#gid=0">data table</a> hosted on Google Sheets. You can also make pull requests on <a href="https://github.com/timschuetz/RMP-Facilities-Los-Angeles-County">GitHub</a>.</p>
    
     <p><iframe src="https://timschuetz.github.io/RMP-Facilities-Los-Angeles-County/" width="100%" height="400px"></iframe></p>
-        
-    
-     https://docs.google.com/spreadsheets/d/1_ervaGPk0yRFldRTzcTGN1jcY6OVcj0letKZNSzek9o/edit#gid=0  
         
 
   </Layout>
