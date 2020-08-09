@@ -24,7 +24,7 @@ const IndexPage = () => (
         
     <p>To contribute to the map comment on the <a href="https://docs.google.com/spreadsheets/d/104wMMATFPWQAmEt6iCvCow0qHG0NiMeZUqC4rBlxrso/edit#gid=0">data table</a> hosted on Google Sheets. You can also make pull requests on <a href="https://github.com/timschuetz/RMP-Facilities-Los-Angeles-County">GitHub</a>.</p>
    
-    <p><iframe src="https://timschuetz.github.io/RMP-Facilities-Los-Angeles-County/" width="100%" height="400px"></iframe></p>
+    <p><iframe src="https://timschuetz.github.io/rmp-facilities-los-angeles-county/" width="100%" height="400px"></iframe></p>
         
 
   </Layout>
